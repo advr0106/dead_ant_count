@@ -11,15 +11,15 @@ To use this algorithm, you need to have Python installed on your system. You can
 ```bash
 git clone https://github.com/advr0106/dead_ant_count
 ```
-3. Open a terminal and navigate to the proyect directory.
+2. Open a terminal and navigate to the proyect directory.
 ```bash
 cd /path/to/dead_ant_count
 ```
-4. Run the 'main.py' to process the string and count dead ants.
+3. Run the 'main.py' to process the string and count dead ants.
 ```bash
 py main.py
 ```
-5. If u want to quit just press q.
+4. If u want to quit just press q.
 
 ## Testing
 This project includes test to verify the correctness of the algorithm. To run the tests, execute the next command in the terminal:
